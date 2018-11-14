@@ -1,4 +1,4 @@
-from paquete.modelado import *
+from paquete_academico.modelado import *
 est1=EstDistancia()						# Creamos el Objeto 
 est1.setNombre("Jose")				# Llamamos a la funcion setNombre con el parametro "Jose"
 est1.setApellido("Diaz")			# Llamamos a la funcion setApellido con el parametro "Diaz"
